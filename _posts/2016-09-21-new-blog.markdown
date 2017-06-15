@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A new blog!"
+---
+
+So this is my new blog. It is using Jekyll to generate the html and it is being servred by nginx on my site.
+I am hoping that this will help clean up my old web 1.0 blog which frankly was a real pain to write entries since I was doing it manually in pure html (wow who does that anymore?).
+
+And in case you're wondering, yes there may be some older blog posts on here from before the blog was "officially" opened, but they were just transferred over from my personal notes.
