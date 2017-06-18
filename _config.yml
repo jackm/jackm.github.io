@@ -11,6 +11,7 @@ baseurl: "/blog"
 url: "https://ehelion.com"
 
 github_username: jackm
+google_analytics: UA-37298176-1
 
 disqus:
   shortname: ehelion
