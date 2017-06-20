@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Thermostat Data Collection and Graphing"
+date:   2016-12-07 00:00:00
 ---
+
 About a year ago a new furnace was installed in the house and along with it came a fancy new thermostat,
 the [Lennox iComfort WiFi Touchscreen thermostat][lennox-icomfort].
 This particular thermostat happened to have WiFi built into it and the ability to use a smartphone app to control the

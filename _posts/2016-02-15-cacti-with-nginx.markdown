@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Setting up Cacti on Ubuntu with nginx"
+date:   2016-02-15 00:00:00
 ---
 
 I recently installed and set up a [Cacti][cacti] graphing server on my Ubuntu headless server with [nginx][nginx] as my chosen web server.
