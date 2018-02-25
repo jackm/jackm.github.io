@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Template blog post title"
+date:   1970-01-01 00:00:00
+keywords:
+  - metadata
+  - keywords
+  - template
+published: false
+---
+
+Template blog post
+
+[clink link][url-tag]
+
+[url-tag]: https://example.com
