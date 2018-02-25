@@ -20,6 +20,14 @@ disqus:
 markdown: kramdown
 theme: minima
 destination: /srv/www/blog/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
 
-gems:
+plugins:
+  - jekyll-sitemap
   - jemoji
+
+kramdown:
+  input: GFM
