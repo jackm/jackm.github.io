@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jack's Blog
-email: jack@ehelion.com
+email: jack *at* ehelion *dot* com
 description: >
   A blog about things I'm interested in.
 baseurl: "/blog"
