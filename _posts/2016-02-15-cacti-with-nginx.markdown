@@ -1,10 +1,18 @@
 ---
 layout: post
-title:  "Setting up Cacti on Ubuntu with nginx"
+title:  "Setting up Cacti 0.8.8 on Ubuntu 14.04 with nginx"
 date:   2016-02-15 00:00:00
+keywords:
+  - cacti
+  - nginx
+  - ubuntu
+  - setup
+  - guide
+  - php-fpm
+  - fastcgi
 ---
 
-I recently installed and set up a [Cacti][cacti] graphing server on my Ubuntu headless server with [nginx][nginx] as my chosen web server.
+I recently installed and set up a [Cacti][cacti] graphing server on my Ubuntu 14.04 LTS headless server with [nginx][nginx] as my chosen web server.
 I've decided to share the basic configuration steps that I took.
 
 ## Cacti with nginx

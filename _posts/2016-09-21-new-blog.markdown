@@ -2,6 +2,9 @@
 layout: post
 title:  "A new blog!"
 date:   2016-09-21 00:00:00
+keywords:
+  - blog
+  - jekyll
 ---
 
 So this is my new blog. It is using Jekyll to generate the html and it is being servred by nginx on my site.

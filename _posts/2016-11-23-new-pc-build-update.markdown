@@ -2,6 +2,9 @@
 layout: post
 title:  "New PC Build - Update"
 date:   2016-11-23
+keywords:
+  - pc build
+  - pc upgrade
 ---
 
 My new PC is officially complete!

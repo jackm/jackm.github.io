@@ -2,6 +2,9 @@
 layout: post
 title:  "New PC Build"
 date:   2016-09-25 00:00:00
+keywords:
+  - pc build
+  - pc upgrade
 ---
 
 After 7 years of using my first generation Core i7 920 in my main desktop PC, I think it's finally time for an upgrade. Not really because my current build isn't good enough, it still is surprisingly, but I just think that 7 years is a pretty damn long life for a CPU, motherboard and RAM combo.

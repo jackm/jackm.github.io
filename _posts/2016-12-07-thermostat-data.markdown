@@ -1,7 +1,17 @@
 ---
 layout: post
 title:  "Thermostat Data Collection and Graphing"
-date:   2016-12-07 00:00:00
+date:   2016-12-07 11:00:00
+keywords:
+  - thermostat
+  - Lennox
+  - iComfort
+  - touchscreen
+  - data collection
+  - graphing
+  - cacti
+  - rrdtool
+  - api
 ---
 
 About a year ago a new furnace was installed in the house and along with it came a fancy new thermostat,
@@ -23,7 +33,7 @@ and then pass it on to Cacti to record and graph.
 The final result is something like the following where I graph the indoor and outdoor temperature,
 as well as the heat-to and cool-to programmed setpoints.
 
-{% include image.html name="thermostat_graph.png" %}
+{% include image.html name="thermostat-graph.png" %}
 
 ## References
 
