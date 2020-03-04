@@ -7,8 +7,6 @@ title: Jack's Blog
 email: jack *at* ehelion *dot* com
 description: >
   A blog about things I'm interested in.
-baseurl: "/blog"
-url: "https://ehelion.com"
 
 github_username: jackm
 google_analytics: UA-37298176-1
@@ -19,7 +17,7 @@ disqus:
 # Build settings
 markdown: kramdown
 theme: minima
-destination: /srv/www/blog/
+destination: ../jackm.github.io/
 exclude:
   - Gemfile
   - Gemfile.lock
