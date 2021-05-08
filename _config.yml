@@ -7,7 +7,7 @@ title: Jack's Blog
 email: jack *at* ehelion *dot* com
 description: >
   A blog about things I'm interested in.
-
+url: https://jackm.github.io
 github_username: jackm
 google_analytics: UA-37298176-1
 
@@ -16,7 +16,6 @@ disqus:
 
 markdown: kramdown
 theme: minima
-destination: ../jackm.github.io/
 
 plugins:
   - jekyll-sitemap
