@@ -14,18 +14,10 @@ google_analytics: UA-37298176-1
 disqus:
   shortname: ehelion
 
-# Build settings
 markdown: kramdown
 theme: minima
 destination: ../jackm.github.io/
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
 
 plugins:
   - jekyll-sitemap
   - jemoji
-
-kramdown:
-  input: GFM
