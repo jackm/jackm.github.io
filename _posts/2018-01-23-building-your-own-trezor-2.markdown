@@ -18,10 +18,10 @@ keywords:
 Unpopulated PCBs and components from Digikey have arrived!
 Now to assemble them.
 
-{% comment %} 
+{%- comment -%} 
 {% include image.html name="trezor-pcb-20180116-1.jpg" %}
 {% include image.html name="trezor-pcb-20180116-2.jpg" %}
-{% endcomment %}
+{%- endcomment -%}
 
 ## Assembly
 
