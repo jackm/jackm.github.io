@@ -43,6 +43,8 @@ For this I had to do some searching in Digikey's catalog as well as general web 
 Part numbers for specific ICs were given, but for all of the passive components only a brief description was provided.
 I was able to determine the part numbers for the newer ICs and passives found in revision 1.1 by copying them off of the v1.1 schematic.
 
+A copy of this modified BOM can be downloaded [here][trezor-hw-bom].
+
 ### Sourcing the OLED display
 
 {% include image.html name="UG-2864HSWEG01.jpg" %}
@@ -87,3 +89,4 @@ Only downside is the long turn-around time, but I'm in no real rush.
 [adafruit-938]: https://www.adafruit.com/product/938
 [gerber-fmt]: https://en.wikipedia.org/wiki/Gerber_format
 [seeedstudio-pcb]: https://www.seeedstudio.com/fusion_pcb.html
+[trezor-hw-bom]: {{ site.baseurl }}/assets/Trezor-hw-v1.1-bom-printable.csv
